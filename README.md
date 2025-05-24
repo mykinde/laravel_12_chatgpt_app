@@ -2,7 +2,7 @@
 
 
 
-[Documentation Link- ChatGPT](https://chatgpt.com/share/682c3f05-3a14-8004-9a92-4983891c397f)
+[Documentation Link- ChatGPT](https://chatgpt.com/share/6831e0fa-9520-8004-b2ad-fae10ec433e7)
 
 [My Site](https://mykinde.github.io/site/)
 
@@ -10,33 +10,25 @@
 
 ## About Repository
 
-A very simple Laravel 12 + Vue 3 + AdminLTE 3 based Curd Starter template for SPA Application.
+A very simple Laravel 12 +  Application.
 <p align="center">
-<img src="https://i.imgur.com/111111mZAHbUL.png">
+<img src="https://i.imgur.com/TO3sknp.png">
 
 </p>
 
 ## Tech Specification
 
 - Laravel 12
-- React/Vue + VueRouter
+- CRUD Oporation
 - Laravel Breeze
-- Admin LTE 3 + Bootstrap 4 + Font Awesome 5
+- Bootstrap 4 + Font Awesome 5
 - PHPUnit Test Case/Test Coverage
-- Moodle LMS + AI
+
 
 ## Features
 
-- Modal based Create+Edit, List with Pagination, Delete with Sweetalert
-- Login, Register, Forget+Reset Password as default auth
-- Profile, Update Profile, Change Password, Avatar
-- Product Management 
-- User Management
-- Settings: Categories, Tags
-- Frontend and Backend User ACL with Gate Policy (type: admin/user)
-- Simple Static Dashboard
-- Developer Options for OAuth Clients and Personal Access Token
-- Build with Docker
+- Create Read Update Delete
+
 
 ## Installation
 
@@ -98,12 +90,12 @@ Make sure that you have setup the environment properly. You will need minimum PH
 5. Set the application key by running `php artisan key:generate --ansi`
 6. Run migrations `php artisan migrate`
 7. Start local server by executing `php artisan serve`
-8. Visit here [http://127.0.0.1:8000/prOJECT](http://127.0.0.1:8000/products) to test the application
+8. Visit here [http://127.0.0.1:8000/prject](http://127.0.0.1:8000/posts) to test the application
 ## mykinde
 for full package and demo contact g3send@gmail.com
 
 ## Credit
-This repository is motivated by [mykinde/laravStart](https://github.com/mykinde/week1.git) and his awesome video tutorial in [Youtube](https://www.youtube.com/playlist?list=PLE6CJ8yYNo7LvHjVBWX0fjeb5A7nWimzj).
+This repository is motivated by [mykinde/laravStart](https://github.com/mykinde/laravel_12_chatgpt_app.git) and his awesome video tutorial in [Youtube](https://www.youtube.com/watch?v=ubSWfJ4Gqy8).
 
 ## License
 
